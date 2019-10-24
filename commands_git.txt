@@ -1,0 +1,11 @@
+# COMANDOS BÁSICOS DE GITHUB
+
+# Procedimiento para actualiar repo en github
+    git status
+    git add .
+    git commit
+    git commit -m ""
+    git push
+
+# Elimitar Releases
+    git push -d origin v1.0
